@@ -2,17 +2,18 @@
 # Categories can be used to filter modules in modules listing
 # github.com/odoo/odoo/blob/master/openerp/addons/base/module/module_data.xml
 {
-    'name': "lead demo report",
+    'name': "Payslip py3o demo report",
 
-    'summary': """Create py3o reports for your leads (only interesting
-    for training and demo""",
-
-    'description': """
-        Only use this module to learn how to use report_py3o
+    'summary': """
+        bla
     """,
 
-    'author': "XCG Consulting",
-    'website': "http://odoo.consulting/",
+    'description': """
+        bla
+    """,
+
+    'author': "KMEE",
+    'website': "http://www.kmee.com.br",
 
     'category': 'Tools',
     'version': '0.1',
